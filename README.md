@@ -1,4 +1,4 @@
-# 🚀 DevOps Workshop - Mission Control App
+ # 🚀 DevOps Workshop - Mission Control App
 
 A microservices demo application for learning Kubernetes, CI/CD, and GitOps practices.
 
